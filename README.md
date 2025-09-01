@@ -1,6 +1,6 @@
 # Much worse version of Lisp
 
-Try it here https://dzharvis.github.io/lesp/
+Try it here https://jqrv1s.github.io/lesp/
 
 Note: Due to some bug with web assembly, may not work with some versions of chrome
 
